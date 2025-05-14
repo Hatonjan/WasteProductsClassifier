@@ -49,7 +49,3 @@ Contributions are welcome! If you’d like to improve this project, feel free to
 
 ## **License**
 This project is licensed under the **MIT License**.
-
----
-
-Would you like any modifications or additional sections? 🚀
